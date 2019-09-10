@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Black",
+    "email": "johnblack@hotmail.com",
+    "salary": "20.000"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Ion",
+    "email": "ion14@hotmail.com",
+    "salary": "30.000"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Martin",
+    "email": "mmk@hotmail.com",
+    "salary": "22.000"
+  },
+  {
+    "firstName": "Liz",
+    "lastName": "Marianou",
+    "email": "MLIZ@hotmail.com",
+    "salary": "25.000"
+  }
+]
